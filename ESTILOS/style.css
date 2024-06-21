@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 1px solid black;
+}
+
+body {
+    width: 100vw;
+}
+
+.menu{
+    display: none;
+}
+
+#nav {
+    width: 100vw;
+    height: 7vh;
+    background-color: blue;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.contenedor{
+    background-color: aqua;
+    height: 80vh;
+    width: 100vw;
+}
+
