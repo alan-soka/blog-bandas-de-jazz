@@ -1,0 +1,19 @@
+{
+    "bandas": [
+        {
+            "nombre": "Miles Davis Quintet",
+            "genero": "Jazz",
+            "album_famoso": "Kind of Blue"
+        },
+        {
+            "nombre": "John Coltrane Quartet",
+            "genero": "Jazz",
+            "album_famoso": "A Love Supreme"
+        },
+        {
+            "nombre": "Thelonious Monk Quartet",
+            "genero": "Jazz",
+            "album_famoso": "Monk's Dream"
+        }
+    ]
+}

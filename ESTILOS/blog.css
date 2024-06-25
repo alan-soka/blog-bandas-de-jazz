@@ -14,7 +14,7 @@ body{
 background-color: blueviolet;
 }
 
-.container{
+.container, #contenedor{
     display: flex;
 }
 
@@ -23,13 +23,5 @@ background-color: blueviolet;
     height: 90vh;
 }
 
-.dashboard{
-    width: 80vw;
-    height: 90wh;
-    background-color: blueviolet;
-}
 
-main{
-    width: 10rem;
-    height: 15rem;
-}
+
