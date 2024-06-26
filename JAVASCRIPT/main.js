@@ -8,15 +8,20 @@ class BandaCard extends HTMLElement {
 
     set banda(banda) {
         this.shadowRoot.innerHTML = `
- 
-main{
-    margin: 20px;
-    width: 20rem;
-    height: 25rem; background-color: brown;
-}<main>strhw6w</main>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+
         `;
-
-
     }
 }
 

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Iniciar Sesión</title>
+</head>
+
+<body>
+
+    <script>
+
+        // Obtener el email y la contraseña de la URL
+        
+        const urlParams = new URLSearchParams(window.location.search);
+        const usuario = urlParams.get('usuario');
+        const contraseña = urlParams.get('contraseña');
+
+        fetch('../JAVASCRIPT/users.json')
+            .then(response => response.json())
+            .then(usuariosValidos => {
+                if (usuariosValidos[usuario] && usuariosValidos[usuario] === contraseña) {
+                    window.location.href = "../INDEXES/blog.html";
+                } else {
+                    alert("Contraseña o usuario incorrecto");
+                    window.location.href = "../INDEXES/login.html";
+                }
+            })
+            .catch(error => {
+                console.error('Error al cargar users.json:', error);
+            });
+
+    </script>
+
+</body>
+
+</html>

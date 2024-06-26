@@ -1,27 +1,33 @@
-*{
+* {
     margin: 0;
     padding: 0;
     border: 1px solid black;
 }
 
-body{
+body {
     background-color: aquamarine;
-    width:100vw ;
+    width: 100vw;
     height: 100vh;
 }
 
-.title{
-background-color: blueviolet;
+.title {
+    height: 4rem;
+    background-color: blueviolet;
 }
 
-.container, #contenedor{
+.container,
+#contenedor {
     display: flex;
 }
 
-.menu{
+.menu {
     width: 20rem;
     height: 90vh;
 }
 
-
-
+banda-card {
+    margin: 2rem;
+    width: 20rem;
+    height: 20rem;
+    background-color: brown;
+}
