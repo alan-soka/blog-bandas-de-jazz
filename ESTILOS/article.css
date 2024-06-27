@@ -1,0 +1,44 @@
+* {
+    margin: auto;
+    padding: auto;
+    border: 1px solid black;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+}
+
+.header {
+    width: 100vw;
+    height: 8vh;
+}
+
+.contenedor {
+    display: flex;
+}
+
+img {
+    width: 400px;
+    height: 400px;
+    background-color: blue;
+}
+
+.CajaContenedor {
+    height: 90vh;
+    width: 60vw;
+    background-color: blanchedalmond;
+}
+
+p {
+    font-size: 2rem;
+    text-align: center;
+}
+
+.autor {
+    position: absolute;
+    bottom: 0;
+    width: 60vw;
+    height: 10vh;
+    background-color: chocolate;
+}
