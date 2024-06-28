@@ -1,5 +1,3 @@
-
-
 class BandaCard extends HTMLElement {
     constructor() {
         super();
@@ -8,23 +6,32 @@ class BandaCard extends HTMLElement {
 
     set banda(banda) {
         this.shadowRoot.innerHTML = `
-
+            <div class="card">
+                <div class="band-image">
+                    <img src="${banda.imagen}" alt="${banda.nombre}">
+                </div>
+                <div>
+                    <h2>${banda.nombre}</h2>
+                    <p>Género: ${banda.genero}</p>
+                    <p>Álbum famoso: ${banda.album_famoso}</p>
+                </div>
+            </div>
         `;
     }
 }
 
 customElements.define('banda-card', BandaCard);
 
-
-
 fetch('../JAVASCRIPT/articles.json')
     .then(response => response.json())
     .then(data => {
         const container = document.getElementById('contenedor');
-        data.bandas.forEach(banda => {
+        data.forEach(banda => {
             const bandaCard = document.createElement('banda-card');
             bandaCard.banda = banda;
-            container.appendChild(bandaCard); 
+            container.appendChild(bandaCard);
         });
     })
     .catch(error => console.error('Error al cargar los datos:', error));
+
+    

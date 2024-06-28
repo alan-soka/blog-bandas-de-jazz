@@ -24,10 +24,31 @@ body {
     width: 20rem;
     height: 90vh;
 }
+.card {
+height: 100px;
+width: 100px;
+}
 
-banda-card {
-    margin: 2rem;
-    width: 20rem;
-    height: 20rem;
-    background-color: brown;
+.card h2 {
+    margin: 0;
+    font-size: 1.2em;
+    color: #333;
+}
+
+.card p {
+    margin: 8px 0 0;
+    color: #666;
+}
+
+.band-image {
+    width: 100px;
+    height: 100px;
+    margin-right: 16px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+img {
+    width: 100px;
+    height: 100px;
 }

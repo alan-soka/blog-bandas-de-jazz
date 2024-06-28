@@ -2,16 +2,61 @@
     {
         "nombre": "Miles Davis Quintet",
         "genero": "Jazz",
-        "album_famoso": "Kind of Blue"
+        "album_famoso": "Kind of Blue",
+        "imagen": "../RECURSOS/jazz.png"
     },
     {
         "nombre": "John Coltrane Quartet",
         "genero": "Jazz",
-        "album_famoso": "A Love Supreme"
+        "album_famoso": "A Love Supreme",
+        "imagen": "john_coltrane.jpg"
     },
     {
         "nombre": "Thelonious Monk Quartet",
         "genero": "Jazz",
-        "album_famoso": "Monk's Dream"
+        "album_famoso": "Monk's Dream",
+        "imagen": "thelonious_monk.jpg"
+    },
+    {
+        "nombre": "Duke Ellington Orchestra",
+        "genero": "Jazz",
+        "album_famoso": "Ellington at Newport",
+        "imagen": "duke_ellington.jpg"
+    },
+    {
+        "nombre": "Charlie Parker Quintet",
+        "genero": "Jazz",
+        "album_famoso": "Bird's Best Bop on Verve",
+        "imagen": "charlie_parker.jpg"
+    },
+    {
+        "nombre": "Louis Armstrong and His Hot Five",
+        "genero": "Jazz",
+        "album_famoso": "West End Blues",
+        "imagen": "louis_armstrong.jpg"
+    },
+    {
+        "nombre": "Count Basie Orchestra",
+        "genero": "Jazz",
+        "album_famoso": "April in Paris",
+        "imagen": "count_basie.jpg"
+    },
+    {
+        "nombre": "Art Blakey and The Jazz Messengers",
+        "genero": "Jazz",
+        "album_famoso": "Moanin'",
+        "imagen": "art_blakey.jpg"
+    },
+    {
+        "nombre": "Billie Holiday and Her Orchestra",
+        "genero": "Jazz",
+        "album_famoso": "Lady in Satin",
+        "imagen": "billie_holiday.jpg"
+    },
+    {
+        "nombre": "Dave Brubeck Quartet",
+        "genero": "Jazz",
+        "album_famoso": "Time Out",
+        "imagen": "dave_brubeck.jpg"
     }
 ]

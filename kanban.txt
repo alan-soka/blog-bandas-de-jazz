@@ -1,0 +1,5 @@
+crear feedback con MAILTO,
+
+solucionar los componentes web,
+
+crear la informacion descargar imagenes y meterlos al json,
