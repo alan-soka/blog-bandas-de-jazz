@@ -1,54 +1,67 @@
 * {
     margin: 0;
     padding: 0;
-    border: 1px solid black;
+    /* border: 1px solid black; */
 }
 
 body {
-    background-color: aquamarine;
+    background: linear-gradient(to bottom, #d37b28, #3f3226);
     width: 100vw;
     height: 100vh;
+    display: flex;
 }
 
 .title {
     height: 4rem;
-    background-color: blueviolet;
+    background-color: antiquewhite;
+    border-radius: 30px;
+    margin: 50px;
 }
 
-.container,
+
 #contenedor {
+    background-color: antiquewhite;
+    width: 80vw;
+    height: 80vh;
     display: flex;
+    flex-wrap: wrap;
+    overflow-x: hidden;
+    margin: 50px;
+    border-radius: 30px;
 }
 
 .menu {
+    margin: 50px;
     width: 20rem;
+    min-width: 13rem;
     height: 90vh;
-}
-.card {
-height: 100px;
-width: 100px;
+    border-radius: 30px;
+    background-color: antiquewhite;
 }
 
-.card h2 {
-    margin: 0;
-    font-size: 1.2em;
-    color: #333;
+li {
+    margin: 1rem;
+    text-align: center;
+    height: 2rem;
+    background-color: #d37b28;
 }
 
-.card p {
-    margin: 8px 0 0;
-    color: #666;
+
+banda-card {
+    background-color: #3f3226d3;
+    text-align: center;
+    margin: 10px;
+    height: 380px;
+    width: 300px;
+    border-radius: 10px;
 }
 
-.band-image {
-    width: 100px;
-    height: 100px;
-    margin-right: 16px;
-    border-radius: 50%;
-    overflow: hidden;
-}
-
-img {
-    width: 100px;
-    height: 100px;
+h1 {
+    font-family: "UnifrakturMaguntia", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15vh;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 3rem;
 }
