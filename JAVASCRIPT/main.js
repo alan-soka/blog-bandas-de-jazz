@@ -10,7 +10,7 @@ class BandaCard extends HTMLElement {
                     <img src="${banda.imagen}" alt="${banda.nombre}">
                 <div>
                     <h2>${banda.nombre}</h2>
-                    <h3>Género: ${banda.genero}</p>
+                    <h3>Género: ${banda.año}</p>
                     <p>Álbum famoso: ${banda.album_famoso}</p>
                 </div>
 
@@ -23,6 +23,27 @@ class BandaCard extends HTMLElement {
                     width: 250px;
                     border-radius: 10px;
                 }
+                
+                h2 {
+    font-family: Arial, sans-serif;
+    font-size: 1.2rem;
+    color: antiquewhite;
+    margin: 1px;
+}
+
+h3 {
+    font-family: Arial, sans-serif;
+    font-size: 1rem;
+    color: antiquewhite;
+      margin: 5px;
+}
+
+p {
+    font-family: Arial, sans-serif;
+    font-size: 1rem;
+    color: antiquewhite;
+      margin: 5px;
+}
             </style>
 
         `;

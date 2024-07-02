@@ -5,29 +5,36 @@
 }
 
 body {
-    background: linear-gradient(to bottom, #d37b28, #3f3226);
+    background: linear-gradient(to bottom, #0e312f, #41270f);
     width: 100vw;
     height: 100vh;
     display: flex;
 }
 
 .title {
+    width: 75vw;
     height: 4rem;
-    background-color: antiquewhite;
-    border-radius: 30px;
-    margin: 50px;
+    background-color: rgb(187, 165, 135);
+    border-radius: 10px;
+    margin: 50px 0 50px 0;
 }
 
+a {
+    align-items: center;
+    font-family: "UnifrakturMaguntia", cursive;
+    font-size: 2rem;
+    color: antiquewhite;
+    text-decoration: none;
+}
 
 #contenedor {
-    background-color: antiquewhite;
-    width: 80vw;
-    height: 80vh;
+    background-color: rgb(187, 165, 135);
+    width: 75vw;
+    height: 77.8vh;
     display: flex;
     flex-wrap: wrap;
     overflow-x: hidden;
-    margin: 50px;
-    border-radius: 30px;
+    border-radius: 10px;
 }
 
 .menu {
@@ -35,25 +42,44 @@ body {
     width: 20rem;
     min-width: 13rem;
     height: 90vh;
-    border-radius: 30px;
-    background-color: antiquewhite;
+    border-radius: 10px;
+    background-color: rgb(187, 165, 135);
 }
 
 li {
-    margin: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 2rem;
     text-align: center;
-    height: 2rem;
-    background-color: #d37b28;
+    height: 2.2rem;
+    background-color: #4b3f34;
+    border-radius: 10px;
+    transition: 0.2s;
+}
+
+li:hover{
+    transform: scale(1.2);
+    background-color: #144947;
+
 }
 
 
 banda-card {
-    background-color: #3f3226d3;
+    background-color: #4b3f34;
     text-align: center;
-    margin: 10px;
+    margin: 30px;
     height: 380px;
     width: 300px;
     border-radius: 10px;
+    transition: 0.2s;
+}
+
+banda-card:hover{
+    transform: scale(1.1)
+
+
+
 }
 
 h1 {
@@ -61,7 +87,7 @@ h1 {
     font-weight: 400;
     font-style: normal;
     font-size: 15vh;
-    color: rgb(0, 0, 0);
+    color: #3d2e1f;
     text-align: center;
-    font-size: 3rem;
+    font-size: 4rem;
 }

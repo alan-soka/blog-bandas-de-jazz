@@ -1,62 +1,62 @@
 [
     {
         "nombre": "Miles Davis Quintet",
-        "genero": "Jazz",
+        "año": "1959",
         "album_famoso": "Kind of Blue",
         "imagen": "../RECURSOS/jazz.png"
     },
     {
         "nombre": "John Coltrane Quartet",
-        "genero": "Jazz",
+        "año": "1965",
         "album_famoso": "A Love Supreme",
-        "imagen": "../RECURSOS/jazz.png"
+        "imagen": "../RECURSOS/a love supreme.jpg"
     },
     {
         "nombre": "Thelonious Monk Quartet",
-        "genero": "Jazz",
+        "año": "1963",
         "album_famoso": "Monk's Dream",
-        "imagen": "../RECURSOS/jazz.png"
+        "imagen": "../RECURSOS/monks quartet.jpeg"
     },
     {
         "nombre": "Duke Ellington Orchestra",
-        "genero": "Jazz",
+        "año": "1956",
         "album_famoso": "Ellington at Newport",
-        "imagen": "../RECURSOS/jazz.png"
+        "imagen": "../RECURSOS/Ellington at Newport 1.jpg"
     },
     {
         "nombre": "Charlie Parker Quintet",
-        "genero": "Jazz",
+        "año": "1950",
         "album_famoso": "Bird's Best Bop on Verve",
-        "imagen": "../RECURSOS/jazz.png"
+        "imagen": "../RECURSOS/Bird's Best Bop on Verve.jpg"
     },
     {
         "nombre": "Louis Armstrong and His Hot Five",
-        "genero": "Jazz",
+        "año": "1928",
         "album_famoso": "West End Blues",
-        "imagen": "../RECURSOS/jazz.png"
+        "imagen": "../RECURSOS/West End Blues.jpeg"
     },
     {
         "nombre": "Count Basie Orchestra",
-        "genero": "Jazz",
+        "año": "1956",
         "album_famoso": "April in Paris",
-        "imagen": "../RECURSOS/jazz.png"
+        "imagen": "../RECURSOS/Count-Basie-April-In-Paris.webp"
     },
     {
         "nombre": "Art Blakey and The Jazz Messengers",
-        "genero": "Jazz",
+        "año": "1958",
         "album_famoso": "Moanin'",
-        "imagen": "../RECURSOS/jazz.png"
+        "imagen": "../RECURSOS/moanin.jpg"
     },
     {
         "nombre": "Billie Holiday and Her Orchestra",
-        "genero": "Jazz",
+        "año": "1958",
         "album_famoso": "Lady in Satin",
-        "imagen": "../RECURSOS/jazz.png"
+        "imagen": "../RECURSOS/Holiday-Billie-Lady-in-Satin.jpg"
     },
     {
         "nombre": "Dave Brubeck Quartet",
-        "genero": "Jazz",
+        "año": "1959",
         "album_famoso": "Time Out",
-        "imagen": "../RECURSOS/jazz.png"
+        "imagen": "../RECURSOS/Time Out dave.jpg"
     }
 ]
