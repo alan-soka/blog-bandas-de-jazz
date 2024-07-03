@@ -11,14 +11,14 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: linear-gradient(to bottom, #c6cdc0, #629a8d, #016960, #06524b, #0e312f);
+    background: linear-gradient(to bottom, #0e312f, #41270f);
 }
 
 .contenedor {
-    background-color: #90a8a3;
-    padding: 20px;
-    border-radius: 10px;
-    width: 300px;
+    background-color: rgb(187, 165, 135);
+    padding: 50px;
+    border-radius: 15px;
+    width: 400px;
     text-align: center;
 }
 
@@ -29,7 +29,10 @@ a{
 
 h2 {
     margin-bottom: 20px;
+    font-family: "UnifrakturMaguntia", cursive;
+    font-size: 3rem;
 }
+
 
 form {
     margin-bottom: 15px;
@@ -37,6 +40,7 @@ form {
 }
 
 label {
+    font-size: 1.2rem;
     display: block;
     margin-top: 10px;
     margin-bottom: 10px;
@@ -51,7 +55,7 @@ input {
     width: 100%;
     padding: 8px;
     border-radius: 4px;
-    background-color: #d4dacf;
+    background-color: antiquewhite;
 }
 
 .CajaTerminos {
@@ -70,7 +74,7 @@ button {
     padding: 10px;
     border: none;
     border-radius: 10px;
-    background-color: #016960;
+    background-color: #4b3f34;
     color: #fff;
     font-size: 16px;
     cursor: pointer;

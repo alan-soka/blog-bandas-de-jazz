@@ -5,17 +5,24 @@
 }
 
 body {
+    background: linear-gradient(to bottom, #0e312f, #41270f);
     width: 100vw;
+    height: 100vh;
+
 }
 
 .menu {
     display: none;
 }
 
+
 #nav {
-    width: 100vw;
-    height: 7vh;
-    background-color: blue;
+    width: 85vw;
+    height: 5rem;
+    background-color: rgb(187, 165, 135);
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 50px;
     display: flex;
     justify-content: space-evenly;
 }
@@ -32,9 +39,50 @@ body {
     height: 80vh;
 }
 
-h1 {
+.caja-H1 {
+    margin-left: 7.3vw;
+    margin-top: 4vw;
+    width: 40vw;
+    height: 30vh;
+    background-color: rgb(187, 165, 135);
+    border-radius: 10px;
+}
+
+.Caja-parrafo {
+    margin-left: 7.3vw;
+    margin-top: 4vw;
+    width: 40vw;
+    height: 30vh;
+    background-color: rgb(187, 165, 135);
+    border-radius: 10px;
+    font-size: 2rem;
+}
+
+
+
+.ContenedorCartas {
     width: 50vw;
-    height: 40vh;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.CajaCartas {
+    width: 400px;
+    height: 400px;
+    overflow: hidden;
+    position: relative;
+    border-radius: 10px;
+
+}
+
+.Cartas {
+    background-color: rgb(187, 165, 135);
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    animation: scroll 5s linear infinite;
 }
 
 @keyframes scroll {
@@ -53,29 +101,4 @@ h1 {
     100% {
         top: -100%;
     }
-}
-
-.ContenedorCartas {
-    width: 50vw;
-    height: 80vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.CajaCartas {
-    width: 400px;
-    height: 400px;
-    overflow: hidden;
-    position: relative;
-    border-radius: 10px ;
-
-}
-
-.Cartas {
-    background-color: red;
-    width: 400px;
-    height: 400px;
-    position: absolute;
-    animation: scroll 5s linear infinite;
 }

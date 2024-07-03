@@ -3,60 +3,70 @@
         "nombre": "Miles Davis Quintet",
         "año": "1959",
         "album_famoso": "Kind of Blue",
-        "imagen": "../RECURSOS/jazz.png"
+        "imagen": "../RECURSOS/jazz.png",
+        "texto": "El Miles Davis Quintet de 1959 es una formación emblemática en la historia del jazz, conocida por su revolucionario álbum 'Kind of Blue'. Este disco, considerado una obra maestra, fue fundamental en la popularización del jazz modal. Con músicos excepcionales como John Coltrane en el saxofón tenor, Bill Evans en el piano, Paul Chambers en el contrabajo y Jimmy Cobb en la batería, el quinteto exploró nuevas fronteras musicales con una fluidez y creatividad sin precedentes. 'Kind of Blue' ha influido profundamente en generaciones de músicos y sigue siendo una referencia esencial para los amantes del jazz."
     },
     {
         "nombre": "John Coltrane Quartet",
         "año": "1965",
         "album_famoso": "A Love Supreme",
-        "imagen": "../RECURSOS/a love supreme.jpg"
+        "imagen": "../RECURSOS/a love supreme.jpg",
+        "texto": "El John Coltrane Quartet, formado en 1965, alcanzó un estatus icónico con su álbum 'A Love Supreme', una suite espiritual que captura la búsqueda de redención y la espiritualidad de Coltrane. Este álbum es una meditación musical en cuatro partes, que ha sido aclamada por su profunda expresividad y su complejidad técnica. Con McCoy Tyner en el piano, Jimmy Garrison en el contrabajo y Elvin Jones en la batería, el cuarteto creó una música que trascendió las fronteras del jazz convencional, incorporando elementos de la música india, africana y clásica. 'A Love Supreme' es una obra maestra que sigue inspirando a músicos y oyentes por igual."
     },
     {
         "nombre": "Thelonious Monk Quartet",
         "año": "1963",
         "album_famoso": "Monk's Dream",
-        "imagen": "../RECURSOS/monks quartet.jpeg"
+        "imagen": "../RECURSOS/monks quartet.jpeg",
+        "texto": "El Thelonious Monk Quartet de 1963 es conocido por su álbum 'Monk's Dream', una joya del jazz moderno. Thelonious Monk, con su estilo pianístico distintivo y su capacidad para crear composiciones complejas y memorables, lideró este cuarteto hacia nuevos horizontes musicales. Con Charlie Rouse en el saxofón tenor, John Ore en el contrabajo y Frankie Dunlop en la batería, la banda desarrolló un sonido único que combinaba la tradición del bebop con innovaciones armónicas y rítmicas. 'Monk's Dream' es un testimonio de la genialidad de Monk y su impacto duradero en el jazz."
     },
     {
         "nombre": "Duke Ellington Orchestra",
         "año": "1956",
         "album_famoso": "Ellington at Newport",
-        "imagen": "../RECURSOS/Ellington at Newport 1.jpg"
+        "imagen": "../RECURSOS/Ellington at Newport 1.jpg",
+        "texto": "La Duke Ellington Orchestra, bajo la dirección del legendario Duke Ellington, es una de las formaciones más influyentes en la historia del jazz. En 1956, su actuación en el Newport Jazz Festival, inmortalizada en el álbum 'Ellington at Newport', revitalizó la carrera de Ellington y se convirtió en una de las presentaciones más célebres del jazz. Con una orquesta repleta de talentosos músicos como Johnny Hodges, Paul Gonsalves y Cat Anderson, Ellington creó una experiencia sonora que capturó la esencia del swing y la sofisticación orquestal. Este concierto es recordado no solo por la música, sino también por la electrizante recepción del público."
     },
     {
         "nombre": "Charlie Parker Quintet",
         "año": "1950",
         "album_famoso": "Bird's Best Bop on Verve",
-        "imagen": "../RECURSOS/Bird's Best Bop on Verve.jpg"
+        "imagen": "../RECURSOS/Bird's Best Bop on Verve.jpg",
+        "texto": "El Charlie Parker Quintet de 1950, liderado por el innovador saxofonista Charlie Parker, es célebre por su álbum 'Bird's Best Bop on Verve'. Parker, apodado 'Bird', fue uno de los pioneros del bebop, un estilo de jazz que se caracteriza por su complejidad armónica, rápidas secuencias de acordes y avanzadas estructuras melódicas. Acompañado por músicos de la talla de Dizzy Gillespie y Max Roach, el quinteto de Parker transformó el paisaje del jazz, estableciendo nuevas normas para la improvisación y la composición. La influencia de Parker en el desarrollo del jazz moderno es incalculable, y su música sigue siendo un estándar de excelencia."
     },
     {
         "nombre": "Louis Armstrong and His Hot Five",
         "año": "1928",
         "album_famoso": "West End Blues",
-        "imagen": "../RECURSOS/West End Blues.jpeg"
+        "imagen": "../RECURSOS/West End Blues.jpeg",
+        "texto": "Louis Armstrong and His Hot Five, activa en 1928, es una de las formaciones más fundamentales en la evolución del jazz. El tema 'West End Blues' es particularmente famoso, destacando el virtuosismo de Armstrong como trompetista y su habilidad para comunicar emociones profundas a través de su música. Este grupo, que también incluía a músicos como Kid Ory y Johnny Dodds, fue crucial en el desarrollo del jazz, sentando las bases para el estilo swing y la improvisación melódica que caracterizarían el género. Armstrong, con su innovador uso del fraseo y el scat, elevó el jazz a nuevas alturas y estableció un estándar para futuras generaciones de músicos."
     },
     {
         "nombre": "Count Basie Orchestra",
         "año": "1956",
         "album_famoso": "April in Paris",
-        "imagen": "../RECURSOS/Count-Basie-April-In-Paris.webp"
+        "imagen": "../RECURSOS/Count-Basie-April-In-Paris.webp",
+        "texto": "La Count Basie Orchestra, liderada por el carismático pianista y director Count Basie, es famosa por su álbum de 1956 'April in Paris'. La orquesta es conocida por su inconfundible estilo swing y su capacidad para combinar sofisticación con una energía rítmica contagiosa. Con arreglos de figuras como Neal Hefti y solistas excepcionales como Lester Young y Freddie Green, la orquesta de Basie fue un pilar del jazz swing. 'April in Paris', con su icónica interpretación de la pieza titular, es un testimonio del virtuosismo y la precisión de la banda, que dejó una huella imborrable en la historia de la música."
     },
     {
         "nombre": "Art Blakey and The Jazz Messengers",
         "año": "1958",
         "album_famoso": "Moanin'",
-        "imagen": "../RECURSOS/moanin.jpg"
+        "imagen": "../RECURSOS/moanin.jpg",
+        "texto": "Art Blakey and The Jazz Messengers, fundada en 1958, es una banda icónica del hard bop, un subgénero del jazz que incorpora elementos del blues, el gospel y el bebop. Su álbum 'Moanin'' es una referencia del género, destacando la potente batería de Blakey y la creatividad de sus músicos, entre los que se encuentran figuras como Lee Morgan y Benny Golson. Blakey, conocido por su enérgica y dinámica forma de tocar la batería, también fue un mentor para muchos jóvenes músicos de jazz, ayudando a lanzar las carreras de numerosos talentos emergentes. 'Moanin'' es un álbum esencial que captura la esencia vibrante y emocional del hard bop."
     },
     {
         "nombre": "Billie Holiday and Her Orchestra",
         "año": "1958",
         "album_famoso": "Lady in Satin",
-        "imagen": "../RECURSOS/Holiday-Billie-Lady-in-Satin.jpg"
+        "imagen": "../RECURSOS/Holiday-Billie-Lady-in-Satin.jpg",
+        "texto": "Billie Holiday and Her Orchestra es conocida por el emotivo álbum 'Lady in Satin' de 1958. En este disco, Holiday, una de las vocalistas más influyentes del jazz, ofreció interpretaciones profundamente conmovedoras que reflejan su tumultuosa vida personal y su inigualable talento para transmitir emociones. Acompañada por arreglos orquestales de Ray Ellis, Holiday presentó un repertorio de canciones que exploran el amor, la pérdida y la esperanza. 'Lady in Satin' es considerado uno de los trabajos más personales y desgarradores de Holiday, consolidando su legado como una de las figuras más importantes en la historia del jazz vocal."
     },
     {
         "nombre": "Dave Brubeck Quartet",
         "año": "1959",
         "album_famoso": "Time Out",
-        "imagen": "../RECURSOS/Time Out dave.jpg"
+        "imagen": "../RECURSOS/Time Out dave.jpg",
+        "texto": "El Dave Brubeck Quartet de 1959 es conocido por su álbum revolucionario 'Time Out', que exploró estructuras rítmicas poco convencionales y fusionó elementos de distintos géneros musicales. Con temas como 'Take Five' y 'Blue Rondo à la Turk', el cuarteto desafió las convenciones del jazz tradicional y atrajo a una audiencia amplia y diversa. 'Time Out' no solo se convirtió en uno de los álbumes más vendidos de la época, sino que también estableció al Dave Brubeck Quartet como una fuerza creativa y culturalmente significativa en la música popular. El impacto duradero de este álbum sigue inspirando a músicos a explorar nuevos caminos creativos y estilísticos en el jazz moderno."
     }
 ]

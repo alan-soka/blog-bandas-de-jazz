@@ -10,7 +10,7 @@ class BandaCard extends HTMLElement {
                     <img src="${banda.imagen}" alt="${banda.nombre}">
                 <div>
                     <h2>${banda.nombre}</h2>
-                    <h3>Género: ${banda.año}</p>
+                    <h3>año: ${banda.año}</p>
                     <p>Álbum famoso: ${banda.album_famoso}</p>
                 </div>
 

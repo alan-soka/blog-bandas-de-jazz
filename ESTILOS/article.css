@@ -42,3 +42,14 @@ p {
     height: 10vh;
     background-color: chocolate;
 }
+
+
+banda-card {
+    background-color: #4b3f34;
+    text-align: center;
+    margin: 30px;
+    height: 380px;
+    width: 300px;
+    border-radius: 10px;
+    transition: 0.2s;
+}
